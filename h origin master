@@ -1,0 +1,11 @@
+[33mcommit 1fbbb556a6bd7c5562a00f3b3acc8026ac3c9c49[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sgoel2718 <sgoel2718@gmail.com>
+Date:   Mon Jan 17 08:30:00 2022 +0530
+
+    textUtils
+
+[33mcommit cc5121842893c2d4df9749d376a3f22b23cc1ce7[m
+Author: Shubham <sgoel2718@gmail.com>
+Date:   Tue Jan 11 09:54:08 2022 +0530
+
+    Initialize project using Create React App
